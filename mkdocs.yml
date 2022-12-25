@@ -21,6 +21,7 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to light mode
   name: material
+  custom_dir: overrides
   icon:
     logo: octicons/gear-24
   favicon: images/gear.svg
@@ -40,3 +41,6 @@ nav:
   - Links: https://cmeyer.fr/
 markdown_extensions:
   - md_in_html
+extra:
+  analytics:
+    provider: custom
