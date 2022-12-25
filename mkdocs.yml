@@ -1,0 +1,47 @@
+site_name: Lambda Science Blog
+site_url: https://blog.cmeyer.fr
+site_author: Corentin Meyer
+site_description: >-
+  Corentin Meyer's personal blog called "Lambda Science Blog"
+
+# Copyright
+copyright: Copyright &copy; 2022 - 2023 Corentin Meyer
+
+theme:
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      toggle:
+        icon: material/lightbulb  
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  name: material
+  icon:
+    logo: octicons/gear-24
+  favicon: images/gear.svg
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+nav:
+  - Blog: index.md
+  - Whois: whois.md
+  - Links: https://cmeyer.fr/
+markdown_extensions:
+  - md_in_html
