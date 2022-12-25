@@ -1,12 +1,7 @@
 site_name: Lambda Science Blog
 site_url: https://blog.cmeyer.fr
 site_author: Corentin Meyer
-site_description: >-
-  Corentin Meyer's personal blog called "Lambda Science Blog"
-
-# Copyright
-copyright: Copyright &copy; 2022 - 2023 Corentin Meyer
-
+site_description: Corentin Meyer's personal blog called "Lambda Science Blog"
 theme:
   font:
     text: Roboto

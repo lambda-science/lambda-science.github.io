@@ -21,4 +21,4 @@ So basically I've come to the realisation that I really don't like the way acade
 
 I created this blog so that I could share thoughts, ideas and prototypes about technical subjects related to machine-learning, date or biology that I'm working on !
 
-I feel like a blog give me enough space for the creativity I need.
+I feel like a blog give me enough space for the creativity I need and also an opportunity to keep teaching another way.
