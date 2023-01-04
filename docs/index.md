@@ -15,6 +15,8 @@ Click the _Whois_ tab to have more information about me. You can find all my dif
   <figcaption>Muscle cell classification using MyoQuant deep learning</figcaption>
 </figure>
 
-## **List of blog posts**
+## **Blog and Today I Learned Post**
 
-### _Dec 25 2022_&ensp; [[In Writing] Academic publishing hate and reasons for this blog to exist](posts/20221225-Why.md)
+### _Jan 04 2023_&ensp; [TIL - Good bye emails welcome Telegram Alerts](posts/20230104-Telegram.md)
+
+### _Dec 25 2022_&ensp; [[In Writing] Blog - Academic publishing hate and reasons for this blog to exist](posts/20221225-Why.md)
