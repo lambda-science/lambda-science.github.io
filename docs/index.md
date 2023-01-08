@@ -1,22 +1,32 @@
 ---
-title: Science and data for ordinary people
+title: Home
 hide:
   - navigation
   - toc
 ---
 
-# Science and data for ordinary people.
+#
 
-**I feel like we are sinking in a sea of complexity when we are talking science, data and machine-learning.** Here I wanted to create a space where I could communicate about cool stuff I'm working on and explain it as simply as possible in constrast to lengthy scientific papers.  
-Click the _Whois_ tab to have more information about me. You can find all my different links by clicking the _Links_ tab and accessing [cmeyer.fr](https://cmeyer.fr)
-
+<style>
+.md-main__inner {
+  max-width: 850px;
+}
+</style>
 <figure markdown>
-![Cover Image](images/cover.png)
-  <figcaption>Muscle cell classification using MyoQuant deep learning</figcaption>
+<p align="center">
+  <img src="https://github.com/lambda-science.png" alt="IMPatienT Banner" style="max-width: 250px; max-height: 250px; border-radius: 50%; padding: 5px; border-radius: 50%;" />
+  <figcaption><strong>Corentin Meyer</strong></br>Biology & AI PhD Student</br>Machine-Learning Engineer</figcaption>
+</p>
 </figure>
+## Lambda Science - Science and data for ordinary people.
+Hi ! I'm Corentin Meyer. A 25-year-old 3rd PhD Student in biology and AI in Strasbourg. This is my personal website and blog that I use to communicate concepts about science, code and data in an accessible way.  
+You can read my blog posts on the **[Blog & TILs](blog/index.md)** section, find out more about me and my projects in the **[About Me](aboutme.md)** section, or access my different socials right below.
 
-## **Blog and Today I Learned Post**
+<div class="grid cards" markdown>
 
-### _Jan 04 2023_&ensp; [TIL - Good bye emails welcome Telegram Alerts](posts/20230104-Telegram.md)
+- [:simple-twitter: **Twitter** @corentinm_py](https://twitter.com/corentinm_py)
+- [:material-email: **Email** lambdascience@tutanota.com](mailto:lambdascience@tutanota.com)
+- [:simple-github: **GitHub** @lambda-science](https://github.com/lambda-science)
+- [:simple-linkedin: **LinkedIn** Corentin Meyer](https://www.linkedin.com/in/corentin-m-78056887/)
 
-### _Dec 25 2022_&ensp; [[In Writing] Blog - Academic publishing hate and reasons for this blog to exist](posts/20221225-Why.md)
+</div>

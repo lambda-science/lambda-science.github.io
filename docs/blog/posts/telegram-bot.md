@@ -1,17 +1,23 @@
 ---
-title: TIL - Good bye emails welcome Telegram Alerts
-hide:
-  - navigation
-  - toc
+title: Good bye emails welcome Telegram Alerts
+date: 2023-01-05
+authors:
+  - corentin
+categories:
+  - Today I Learned
 ---
 
 # TIL - Good bye emails welcome Telegram Alerts
 
-### _How to send a telegram alert when your code finished running_
+_How to send a telegram alert when your code finished running_
+
+<!-- more -->
+
+---
 
 If you're doing machine learning or any kind of analysis using Python, you probably have been in a situation where you launch scripts that takes several minutes or hours to complete. In these situations you want to have a way to be notified that they finished with success.  
 You have different solutions for this, but my favorite for now that I will show you in this TIL is to create a Telegram Bot that can send you message alerts directly on your phone.
-![Telegram Conversation Screenshot](images/telegram.png)
+![Telegram Conversation Screenshot](assets/telegram.png)
 This is very simple to set up and also compatible with any language that can make a simple GET/POST request.
 
 **Telegram Bot Setup**

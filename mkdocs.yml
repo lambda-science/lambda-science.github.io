@@ -1,7 +1,7 @@
-site_name: Lambda Science Blog
-site_url: https://blog.cmeyer.fr
+site_name: Lambda Science - cmeyer.fr
+site_url: https://cmeyer.fr
 site_author: Corentin Meyer
-site_description: Corentin Meyer's personal blog called "Lambda Science Blog"
+site_description: Lambda Science - Corentin Meyer's personal blog
 theme:
   font:
     text: Roboto
@@ -16,15 +16,15 @@ theme:
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: blue grey
+      primary: black
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
   name: material
   custom_dir: overrides
   icon:
-    logo: octicons/gear-24
-  favicon: images/gear.svg
+    logo: fontawesome/solid/microscope
+  favicon: images/logo.svg
   features:
     - navigation.instant
     - navigation.top
@@ -36,16 +36,31 @@ extra_css:
 plugins:
   - search
 nav:
-  - Blog: index.md
-  - Whois: whois.md
-  - Links: https://cmeyer.fr/
+  - Home: index.md
+  - Blog & TILs: blog/index.md
+  - About Me: aboutme.md
 markdown_extensions:
+  - attr_list
+  - admonition
+  - tables
   - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
   analytics:
     provider: custom
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/corentinm_py
+    - icon: material/email 
+      link: mailto:lambdascience@tutanota.com
+    - icon: simple/linkedin 
+      link: https://www.linkedin.com/in/corentin-m-78056887/
+    - icon: simple/github
+      link: https://github.com/lambda-science
