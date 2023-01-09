@@ -19,7 +19,7 @@ hide:
 </p>
 </figure>
 ## Lambda Science - Science and data for ordinary people.
-Hi ! I'm Corentin Meyer. A 25-year-old 3rd PhD Student in biology and AI in Strasbourg. This is my personal website and blog that I use to communicate concepts about science, code and data in an accessible way.  
+Hi ! I'm Corentin Meyer. A 3rd year PhD Student in biology and AI in Strasbourg. This is my personal website and blog that I use to communicate concepts about science, code and data in an accessible way.  
 You can read my blog posts on the **[Blog & TILs](blog/index.md)** section, find out more about me and my projects in the **[About Me](aboutme.md)** section, or access my different socials right below.
 
 <div class="grid cards" markdown>
