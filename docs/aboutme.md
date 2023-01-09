@@ -32,12 +32,16 @@ So... here are the reasons why Lambda Science blog exists.
 
 ### MyoQuant :microscope:
 
+_A tool to automatically quantify pathological features in muscle fiber histology images_
+
 <div class="grid cards" markdown>
 - [:microscope: MyoQuant Code](https://twitter.com/corentinm_py)
 - [:alembic: MyoQuant Demo](mailto:lambdascience@tutanota.com)
 </div>
 
 ### IMPatienT :card_box:
+
+_An integrated web application to digitize, process and explore multimodal patient data_
 
 <div class="grid cards" markdown>
 - [:card_box: IMPatienT Code](https://twitter.com/corentinm_py)
