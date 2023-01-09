@@ -10,6 +10,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -20,6 +21,8 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       # - run: pip install mkdocs-material 
-      - run: pip install pillow cairosvg
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+      - run: pip install pillow cairosvg
       - run: mkdocs gh-deploy --config-file mkdocs.insiders.yml --force
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
