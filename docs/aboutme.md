@@ -22,7 +22,7 @@ I also love to do some teaching and popularizing science. I actually teach bioin
 I created this place for multiple reasons:
 
 - **Sea of complexity** - Whenever we are talking about science, code and machine learning, things are always presented in a complicated way. And I believe it doesn't have to be this way. I wish to present things in a simple and calm way.
-- **Academic publishing s\*cks** - I've come to the realization that I really don't like the way academic research is communicated. It is: too strict, lengthy, there is too much delay and the whole process just don't make sense to me (we have to pay to publish our own research ?!). I want to have my own freedom to publish some science.
+- **Academic publishing is.. something** - I've come to the realization that I don't really like the way academic research is communicated. I want to have my own freedom to publish some science.
 - **Creative space & Portfolio** - Building my own website allows me to have the full control on how I want to present things about technical subjects related to machine learning, data or biology. I also wish to use it as a portfolio for what I'm working on.
 - **Teaching and popularizing** - Writing blog posts is also another way of teaching and popularizing science.
 
