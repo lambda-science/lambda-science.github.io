@@ -13,4 +13,6 @@ hide:
 
 ## Lambda Science Blog - _Science and data for ordinary people._
 
-## **Blog and Today I Learned Post**
+### 2023-01-05 [TIL - Good bye emails welcome Telegram Alerts](posts/telegram-bot.md)
+
+_How to send a telegram alert when your code finished running_

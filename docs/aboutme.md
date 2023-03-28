@@ -35,8 +35,17 @@ So... here are the reasons why Lambda Science blog exists.
 _A tool to automatically quantify pathological features in muscle fiber histology images_
 
 <div class="grid cards" markdown>
-- [:microscope: MyoQuant Code](https://twitter.com/corentinm_py)
-- [:alembic: MyoQuant Demo](mailto:lambdascience@tutanota.com)
+- [:microscope: MyoQuant Code](https://github.com/lambda-science/MyoQuant)
+- [:alembic: MyoQuant Demo](https://lbgi.fr/MyoQuant/)
+</div>
+
+### NLMyo :wrench:
+
+_A toolbox built to leverage the power of Large Language Models (LLMs) to exploit histology text reports_
+
+<div class="grid cards" markdown>
+- [:wrench: NLMyo Code](https://github.com/lambda-science/NLMyo)
+- [:alembic: NLMyo Demo](https://lbgi.fr/NLMyo/)
 </div>
 
 ### IMPatienT :card_box:
@@ -44,13 +53,15 @@ _A tool to automatically quantify pathological features in muscle fiber histolog
 _An integrated web application to digitize, process and explore multimodal patient data_
 
 <div class="grid cards" markdown>
-- [:card_box: IMPatienT Code](https://twitter.com/corentinm_py)
-- [:alembic:  IMPatienT Demo](mailto:lambdascience@tutanota.com)
+- [:card_box: IMPatienT Code](https://github.com/lambda-science/IMPatienT)
+- [:alembic:  IMPatienT Demo](https://impatient.lbgi.fr)
 </div>
 
 ### Misc.
 
 <div class="grid cards" markdown>
-- [:hugging: HuggingFace @corentinm7](https://huggingface.co/corentinm7)
 - [:battery: Status Page](https://status.cmeyer.fr/)
+- [:hugging: HuggingFace @corentinm7](https://huggingface.co/corentinm7)
+- [:simple-github: GitHub @lambda-science](https://github.com/lambda-science)
+
 </div>
