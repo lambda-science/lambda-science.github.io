@@ -1,5 +1,6 @@
 ---
 title: Good bye emails welcome Telegram Alerts
+description: How to send a telegram alert when your code finished running
 date: 2023-01-05
 authors:
   - corentin

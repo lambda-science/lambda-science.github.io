@@ -1,5 +1,6 @@
 ---
 title: Blog
+description: Corentin Meyer's personal blog called Lambda Science - Science and data for ordinary people
 hide:
   - navigation
   - toc

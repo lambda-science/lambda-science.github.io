@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Corentin Meyer's personal website called Lambda Science - Science and data for ordinary people
 hide:
   - navigation
   - toc

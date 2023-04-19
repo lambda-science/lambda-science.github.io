@@ -35,6 +35,7 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search
+  - social
 nav:
   - Home: index.md
   - Blog & TILs: blog/index.md

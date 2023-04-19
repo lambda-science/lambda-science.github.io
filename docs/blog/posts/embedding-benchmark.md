@@ -1,5 +1,6 @@
 ---
 title: Benchmarking Embbedding Models - OpenAI vs Instructor
+description: A real-life example of Embedding Models performances
 date: 2023-04-19
 authors:
   - corentin
@@ -58,6 +59,6 @@ From a quick overview of the results, we can notice a few things:
 
 - Finally, multi-layer perceptron seems to outperform random forest in all comparison. But with unseen reports, random forest seems to be more reliable, I suspect there is a strong overfit with MLPC models.
 
-In conclusion, I can say that from a performance point a view: the best decision for text classification is still using OpenAI embedding but also to translate your texts into English first. However open-source models are still capable and will hopefully improve in the near future for self-hosted, private solutions solving data-privacy issues.
+In conclusion, I can say that from a performance point-of-view: the best decision for text classification is still using OpenAI embedding but also to translate your texts into English first. However open-source models are still capable and will hopefully improve in the near future for self-hosted, private solutions solving data-privacy issues.
 
 **For more information about biomedical data research and LLMs you can follow me on twitter: [@corentinm_py](https://twitter.com/corentinm_py)**
