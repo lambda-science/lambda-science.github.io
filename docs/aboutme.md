@@ -14,7 +14,7 @@ hide:
 
 # Who am I
 
-I'm Corentin Meyer. I'm 26 years old and a 3rd PhD Student in biology and AI in Strasbourg. I'm working in the _Complex Systems and Translational Biology (CSTB)_ team of the ICube Laboratory.  
+I'm Corentin Meyer. I'm 26 years old and a 3rd PhD Student in biomedical AI in Strasbourg. I'm working in the _Complex Systems and Translational Biology (CSTB)_ team of the ICube Laboratory.  
 I studied biology for 5 years and I learned programming and machine learning on my free time. I enjoy using my skills for health-related topics both as a biologist and computer scientist. What I enjoy the most is actually creating tools for non-technical people that automatize long task and make their life easier.  
 I also love to do some teaching and popularizing science. I actually teach bioinformatics and machine learning (lectures and practicals) at the Biotechnology School of Strasbourg (ESBS).
 

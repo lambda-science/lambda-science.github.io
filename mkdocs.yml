@@ -36,6 +36,13 @@ extra_css:
 plugins:
   - search
   - social
+  - tags
+  - blog:
+      post_date_format: medium
+      post_url_format: "{slug}"
+      archive_url_format: "{date}"
+      archive: false
+      categories: false
 nav:
   - Home: index.md
   - Blog & TILs: blog/index.md
