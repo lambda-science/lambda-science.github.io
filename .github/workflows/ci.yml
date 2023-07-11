@@ -19,6 +19,6 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-material=9.2.0b0
       - run: pip install pillow cairosvg
       - run: mkdocs gh-deploy --config-file mkdocs.yml --force
