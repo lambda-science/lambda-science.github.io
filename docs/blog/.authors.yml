@@ -1,4 +1,5 @@
-corentin:
-  name: Corentin Meyer
-  description: Biomedical AI PhD Student - ML Engineer
-  avatar: https://github.com/lambda-science.png
+authors:
+  corentin:
+    name: Corentin Meyer
+    description: Biomedical AI PhD Student - ML Engineer
+    avatar: https://github.com/lambda-science.png

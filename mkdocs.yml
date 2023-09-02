@@ -2,10 +2,10 @@ site_name: Lambda Science - cmeyer.fr
 site_url: https://cmeyer.fr
 site_author: Corentin Meyer
 site_description: Lambda Science - Corentin Meyer's personal blog
+extra_css:
+  - stylesheets/extra.css
 theme:
-  font:
-    text: Roboto
-    code: Roboto Mono
+  font: false
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -31,8 +31,6 @@ theme:
     - navigation.tabs
     - search.suggest
     - search.highlight
-extra_css:
-  - stylesheets/extra.css
 plugins:
   - search
   - social
@@ -61,6 +59,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
+  generator: false
   analytics:
     provider: custom
   social:
