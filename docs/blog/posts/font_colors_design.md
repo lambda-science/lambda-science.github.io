@@ -19,7 +19,7 @@ _Choosing fonts, colors and shapes to set the right feeling while avoiding round
 
 ## Design choices immediately set the mood
 
-If you've been studying computer science, chances are that you also had that professor that has a personal website [just like this](https://www.motherfuckingwebsite.com/), without any CSS, no colors, no animations, just pure content. Just like the pure performance of [Disk Prices website](https://diskprices.com/). This is what peak performance looks like, but it's a strong minority of websites.
+If you've been studying computer science, chances are that you also had that professor that has a personal website [like this](https://www.motherfuckingwebsite.com/), without any CSS, no colors, no animations, pure content, just like the pure performance of [Disk Prices website](https://diskprices.com/). This is what peak performance looks like, but it's a strong minority of websites.
 
 In the first few seconds of opening a new web page, your perception of the design choice, including fonts, colors, shape of elements and arrangement of elements immediately set your mood and first opinion of it.
 
