@@ -5,7 +5,9 @@ site_description: Lambda Science - Corentin Meyer's personal blog
 extra_css:
   - stylesheets/extra.css
 theme:
-  font: false
+  font: 
+    text: Inter
+    code: JetBrains Mono
   palette:
     # Palette toggle for light mode
     - scheme: default
