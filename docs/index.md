@@ -11,7 +11,7 @@ hide:
 <figure markdown>
 <p align="center">
   <img src="https://github.com/lambda-science.png" alt="IMPatienT Banner" style="max-width: 250px; max-height: 250px; border-radius: 50%; padding: 5px; border-radius: 50%;" />
-  <figcaption><strong>Corentin Meyer</strong></br>Biomedical AI PhD Student</br>Machine-Learning Engineer</figcaption>
+  <figcaption><strong>Corentin Meyer, PhD</strong></br>Biomedical AI PhD</br>Cloud Data Engineer at Alcatel-Lucent Enterprise</figcaption>
 </p>
 </figure>
 <style>
@@ -21,9 +21,9 @@ hide:
 </style>
 ## Lambda Science - Science and data for ordinary people.
 
-I'm Corentin Meyer. A 3rd year PhD Student in biomedical AI in Strasbourg. This is my personal website and blog that to communicate concepts about science, code and data.  
+I'm Corentin Meyer and I have a PhD in Biomedical AI and currently work as a Cloud Data Engineer at Alcatel-Lucent Enterprise. This is my personal website and blog that to communicate concepts about science, code and data.  
 Blog posts here: **[Blog & TILs](blog/index.md)**. More about me & projects here: **[About Me](aboutme.md)**.  
-My current main projects are [NLMyo](https://github.com/lambda-science/NLMyo)🔧, [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️
+My main open-source projects are [NLMyo](https://github.com/lambda-science/NLMyo)🔧, [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️
 
 - [:simple-twitter: **Twitter** @corentinm_py](https://twitter.com/corentinm_py)
 - [:material-email: **Email** lambdascience@tutanota.com](mailto:lambdascience@tutanota.com)
