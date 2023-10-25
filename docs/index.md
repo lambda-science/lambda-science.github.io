@@ -11,7 +11,7 @@ hide:
 <figure markdown>
 <p align="center">
   <img src="https://github.com/lambda-science.png" alt="IMPatienT Banner" style="max-width: 250px; max-height: 250px; border-radius: 50%; padding: 5px; border-radius: 50%;" />
-  <figcaption><strong>Corentin Meyer, PhD</strong></br>Biomedical AI PhD</br>Cloud Data Engineer @ ALE</figcaption>
+  <figcaption><strong>Corentin Meyer, PhD</strong></br>Cloud Data Engineer @ ALE</br>Biomedical AI PhD</figcaption>
 </p>
 </figure>
 <style>
