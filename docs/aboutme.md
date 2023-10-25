@@ -60,7 +60,6 @@ _An integrated web application to digitize, process and explore multimodal patie
 ### Misc.
 
 <div class="grid cards" markdown>
-- [:simple-linkedin: LinkedIn](https://www.linkedin.com/in/corentin-m-78056887/)
 - [:battery: Status Page](https://status.cmeyer.fr/)
 - [:hugging: HuggingFace @corentinm7](https://huggingface.co/corentinm7)
 - [:simple-github: GitHub @lambda-science](https://github.com/lambda-science)
