@@ -24,12 +24,12 @@ hide:
 I'm Corentin Meyer and I have a PhD in Biomedical AI and I'm currently working as a Data Scientist & Engineer at Alcatel-Lucent Enterprise (ALE). This is my personal website and blog that to communicate concepts about science, code and data.  
 Blog posts here: **[Blog & TILs](blog/index.md)**. More about me & projects here: **[About Me](aboutme.md)**.  
 My main open-source projects are [NLMyo](https://github.com/lambda-science/NLMyo)🔧, [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️
-
+<div class="grid cards" markdown>
 - [:simple-twitter: **Twitter** @corentinm_py](https://twitter.com/corentinm_py)
-- [:material-email: **Email** lambdascience@tutanota.com](mailto:lambdascience@tutanota.com)
+- [:material-email: **Email** contact@cmeyer.fr](mailto:contact@cmeyer.fr)
 - [:simple-github: **GitHub** @lambda-science](https://github.com/lambda-science)
 - [:simple-linkedin: **LinkedIn** Corentin Meyer](https://www.linkedin.com/in/corentin-m-78056887/)
-
+</div>
 <div class="grid cards" markdown>
 <p align="middle">
   <a href="https://github.com/lambda-science/NLMyo">
