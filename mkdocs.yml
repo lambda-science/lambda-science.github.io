@@ -7,7 +7,7 @@ extra_css:
 theme:
   font: 
     text: Inter
-    code: JetBrains Mono
+    code: Berkeley Mono
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -59,7 +59,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra:
   generator: false
   analytics:
@@ -68,8 +68,8 @@ extra:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/corentinm_py
     - icon: material/email 
-      link: mailto:lambdascience@tutanota.com
+      link: mailto:contact@cmeyer.fr
     - icon: simple/linkedin 
-      link: https://www.linkedin.com/in/corentin-m-78056887/
+      link: https://www.linkedin.com/in/corentin-meyer-78056887/
     - icon: simple/github
       link: https://github.com/lambda-science

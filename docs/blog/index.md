@@ -12,4 +12,4 @@ hide:
 }
 </style>
 
-## Lambda Science Blog - _Science and data for ordinary people._
+## Lambda Science Blog
