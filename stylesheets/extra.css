@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Berkeley Mono";
+    src: url("https://cmeyers3.s3.eu-central-1.amazonaws.com/BerkeleyMonoVariable-Regular.woff2") format("woff2"),
+    url("https://cmeyers3.s3.eu-central-1.amazonaws.com/BerkeleyMonoVariable-Regular.woff") format("woff");
+}
+
+:root {
+    --md-text-font: "Berkeley Mono";
+}
+
+* {
+    font-family: var(--md-text-font), sans-serif;
+}
+
+/* Apply Berkeley Mono to <strong> text inside <figcaption> */
+figcaption strong, th, td strong {
+    font-family: "Berkeley Mono", sans-serif;
+}
+
+p, em, strong, li, p a {
+    font-family: "Inter";
+}
