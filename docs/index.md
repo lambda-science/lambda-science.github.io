@@ -25,10 +25,11 @@ I'm Corentin Meyer and I have a PhD in Biomedical AI and I'm currently working a
 Blog posts here: **[Blog & TILs](blog/index.md)**. More about me & projects here: **[About Me](aboutme.md)**.  
 My main open-source projects are [NLMyo](https://github.com/lambda-science/NLMyo)🔧, [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️
 <div class="grid cards" markdown>
-- [:simple-twitter: **Twitter** @corentinm_py](https://twitter.com/corentinm_py)
+- [:simple-linkedin: **LinkedIn** Corentin Meyer](https://www.linkedin.com/in/corentin-meyer/)
 - [:material-email: **Email** contact@cmeyer.fr](mailto:contact@cmeyer.fr)
+- [:simple-twitter: **Twitter** @corentinm_py](https://twitter.com/corentinm_py)
 - [:simple-github: **GitHub** @lambda-science](https://github.com/lambda-science)
-- [:simple-linkedin: **LinkedIn** Corentin Meyer](https://www.linkedin.com/in/corentin-meyer-78056887/)
+
 </div>
 <div class="grid cards" markdown>
 <p align="middle">
