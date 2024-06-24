@@ -14,7 +14,7 @@ hide:
 
 # Who am I
 
-I'm Corentin Meyer, I have a PhD in Biomedical AI and currently work as an AI developer at Alcatel-Lucent Enterprise (ALE). I combine both expertise in computer science (data science, AI/ML research, development and engineering and software development) as well as strong scientific expertise with 5 years background in biotechnology. I enjoy using my skills for health-related topics both as a biologist and computer scientist. What I enjoy the most is actually creating tools for non-technical people that automatize long task and make their life easier.  
+I'm Corentin Meyer, I have a PhD in Biomedical AI and currently work as an AI Engineer at Alcatel-Lucent Enterprise (ALE). I combine both expertise in computer science (data science, AI/ML research, development and engineering and software development) as well as strong scientific expertise with 5 years background in biotechnology. I enjoy using my skills for health-related topics both as a biologist and computer scientist. What I enjoy the most is actually creating tools for non-technical people that automatize long task and make their life easier.  
 I also love to do some teaching and popularizing science. I used to teach bioinformatics and machine learning (lectures and practicals) at the Biotechnology School of Strasbourg (ESBS).  
 
 # Why am I doing with this
